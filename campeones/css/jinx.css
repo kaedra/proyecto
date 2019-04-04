@@ -1,0 +1,71 @@
+
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One');
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+
+
+
+.contenedorImagen {
+    background: url(banners/banner_jinx.jpg);
+    height:768px;
+    padding: 60px;
+    
+}
+
+#wrapper * {
+
+font-size: 20px;
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+text-align: center;
+color: rgb(161, 114, 140);
+padding: 18px 10px 20px 10px;
+margin: 48px 400px 100px 400px;
+font-size:46px;
+font-family: 'Alfa Slab One', cursive;
+border: 15px solid rgba(161, 114, 140, 0.6);
+}
+
+#habilidades h5 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    font-family: 'Titillium Web', sans-serif;
+ 
+
+}
+
+#habilidades h3 {
+    font-size: 20px;
+    color: white;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+#habilidades p {
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+    font-family: 'Titillium Web', sans-serif;
+
+}
+
+
+    
+#habilidades img {
+    width: 80px;
+    height: 80px;
+    border: 5px solid white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+
+ 
+    
+}
+
+#habilidades .card {
+    background: rgba(161, 114, 140, 0.7);
+    margin: 10px;
+    
+}
